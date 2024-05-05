@@ -7,5 +7,5 @@
 
 
 <script setup>
-const message = 'Hello Nuxt 3!'
+const message = 'Hello Nuxt 3 on coolify!'
 </script>
